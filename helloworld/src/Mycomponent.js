@@ -17,4 +17,4 @@ Mycomponent.defaultProps = {
 };
 
 
-export default Mycomponent;
+export default Mycomponent
