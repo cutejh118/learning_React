@@ -1,4 +1,5 @@
 import React from 'react';
+import './TodoInser.css';
 
 const TodoInsert = () => {
     return (
