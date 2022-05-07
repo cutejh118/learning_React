@@ -3,6 +3,7 @@ import Mycomponent from "./Mycomponent";
 import Say from "./Say";
 import EventPractice from "./EventPractice";
 import IterationSample from "./IterationSample";
+import Info from "./Info";
 function App() {
   return(
     <div>
@@ -10,6 +11,7 @@ function App() {
         <Say></Say>
         <EventPractice></EventPractice>
         <IterationSample></IterationSample>
+        <Info></Info>
     </div>
 
   ); 
