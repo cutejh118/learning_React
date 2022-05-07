@@ -4,6 +4,7 @@ import Say from "./Say";
 import EventPractice from "./EventPractice";
 import IterationSample from "./IterationSample";
 import Info from "./Info";
+import Average from "./Average";
 function App() {
   return(
     <div>
@@ -12,6 +13,7 @@ function App() {
         <EventPractice></EventPractice>
         <IterationSample></IterationSample>
         <Info></Info>
+        <Average></Average>
     </div>
 
   ); 
