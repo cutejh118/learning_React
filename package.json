@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cutejh118/learning_React/issues"
   },
-  "homepage": "https://github.com/cutejh118/learning_React#readme"
+  "homepage": "https://github.com/cutejh118/learning_React#readme",
+  "dependencies": {
+    "react-icons": "^4.3.1"
+  }
 }
